@@ -1,3 +1,3 @@
-export fn doubler(x:u64) u64 {
+export fn doubler(x:i32) i32 {
     return x * 2;
 }
